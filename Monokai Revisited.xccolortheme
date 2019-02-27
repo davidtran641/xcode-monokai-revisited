@@ -5,23 +5,23 @@
 	<key>DVTConsoleDebuggerInputTextColor</key>
 	<string>0.995968 0.995968 0.995968 1</string>
 	<key>DVTConsoleDebuggerInputTextFont</key>
-	<string>Input-Regular - 10.0</string>
+	<string>SFMono-Regular - 10.0</string>
 	<key>DVTConsoleDebuggerOutputTextColor</key>
 	<string>0.999873 1 0.999841 1</string>
 	<key>DVTConsoleDebuggerOutputTextFont</key>
-	<string>Input-Regular - 10.0</string>
+	<string>SFMono-Regular - 10.0</string>
 	<key>DVTConsoleDebuggerPromptTextColor</key>
 	<string>0.269583 0.704479 0.84096 1</string>
 	<key>DVTConsoleDebuggerPromptTextFont</key>
-	<string>Input-Regular - 10.0</string>
+	<string>SFMono-Regular - 10.0</string>
 	<key>DVTConsoleExectuableInputTextColor</key>
 	<string>0.995968 0.995968 0.995968 1</string>
 	<key>DVTConsoleExectuableInputTextFont</key>
-	<string>Input-Regular - 10.0</string>
+	<string>SFMono-Regular - 10.0</string>
 	<key>DVTConsoleExectuableOutputTextColor</key>
 	<string>0.995968 0.995968 0.995968 1</string>
 	<key>DVTConsoleExectuableOutputTextFont</key>
-	<string>Input-Regular - 10.0</string>
+	<string>SFMono-Regular - 10.0</string>
 	<key>DVTConsoleTextBackgroundColor</key>
 	<string>0.153735 0.158026 0.134656 1</string>
 	<key>DVTConsoleTextInsertionPointColor</key>
@@ -31,7 +31,7 @@
 	<key>DVTDebuggerInstructionPointerColor</key>
 	<string>0.705792 0.8 0.544 1</string>
 	<key>DVTSourceTextBackground</key>
-	<string>0.153735 0.158026 0.134656 1</string>
+	<string>0.128777 0.1289 0.120646 1</string>
 	<key>DVTSourceTextBlockDimBackgroundColor</key>
 	<string>0.5 0.5 0.5 1</string>
 	<key>DVTSourceTextInsertionPointColor</key>
@@ -92,51 +92,51 @@
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>Input-Regular - 11.0</string>
+		<string>SFMono-Regular - 12.0</string>
 		<key>xcode.syntax.character</key>
-		<string>Input-Regular - 11.0</string>
+		<string>SFMono-Regular - 12.0</string>
 		<key>xcode.syntax.comment</key>
-		<string>Input-Regular - 11.0</string>
+		<string>SFMono-Regular - 12.0</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>Input-Regular - 11.0</string>
+		<string>SFMono-Regular - 12.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>Input-Regular - 11.0</string>
+		<string>SFMono-Regular - 12.0</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>Input-Regular - 11.0</string>
+		<string>SFMono-Regular - 12.0</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>Input-Regular - 11.0</string>
+		<string>SFMono-Regular - 12.0</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>Input-Regular - 11.0</string>
+		<string>SFMono-Regular - 12.0</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>Input-Regular - 11.0</string>
+		<string>SFMono-Regular - 12.0</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>Input-Regular - 11.0</string>
+		<string>SFMono-Regular - 12.0</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>Input-Regular - 11.0</string>
+		<string>SFMono-Regular - 12.0</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>Input-Regular - 11.0</string>
+		<string>SFMono-Regular - 12.0</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>Input-Regular - 11.0</string>
+		<string>SFMono-Regular - 12.0</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>Input-Regular - 11.0</string>
+		<string>SFMono-Regular - 12.0</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>Input-Regular - 11.0</string>
+		<string>SFMono-Regular - 12.0</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>Input-Regular - 11.0</string>
+		<string>SFMono-Regular - 12.0</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>Input-Regular - 11.0</string>
+		<string>SFMono-Regular - 12.0</string>
 		<key>xcode.syntax.keyword</key>
-		<string>Input-Regular - 11.0</string>
+		<string>SFMono-Regular - 12.0</string>
 		<key>xcode.syntax.number</key>
-		<string>Input-Regular - 11.0</string>
+		<string>SFMono-Regular - 12.0</string>
 		<key>xcode.syntax.plain</key>
-		<string>Input-Regular - 11.0</string>
+		<string>SFMono-Regular - 12.0</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>Input-Regular - 11.0</string>
+		<string>SFMono-Regular - 12.0</string>
 		<key>xcode.syntax.string</key>
-		<string>Input-Regular - 11.0</string>
+		<string>SFMono-Regular - 12.0</string>
 		<key>xcode.syntax.url</key>
-		<string>Input-Regular - 11.0</string>
+		<string>SFMono-Regular - 12.0</string>
 	</dict>
 </dict>
 </plist>
